@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Firebase Flow Example</string>
+    <string name="text_load_posts">Load Posts</string>
+    <string name="text_post_content">Write a post</string>
+    <string name="text_post">Post</string>
+</resources>
